@@ -1,4 +1,25 @@
 ﻿<Properties StartupConfiguration="{7021354D-38B5-4F77-BA20-3E59D690D301}|Default">
-  <MonoDevelop.Ide.ItemProperties.CoreMVC FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CoreMVC/Program.cs">
+    <Files>
+      <File FileName="CoreMVC/Program.cs" Line="16" Column="37" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CoreMVC" expanded="True">
+            <Node name="CoreMVC" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.CoreMVC FirstBuild="True" PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
 </Properties>

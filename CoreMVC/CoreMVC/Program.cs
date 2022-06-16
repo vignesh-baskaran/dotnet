@@ -11,9 +11,9 @@ namespace CoreMVC
 {
     public class Program
     {
-        public static void Main(string[] args)
+        public static void Main(string[] args1)
         {
-            CreateHostBuilder(args).Build().Run();
+            CreateHostBuilder(args1).Build().Run();
         }
 
         public static IHostBuilder CreateHostBuilder(string[] args) =>
